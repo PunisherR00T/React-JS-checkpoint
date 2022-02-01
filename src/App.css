@@ -1,0 +1,38 @@
+html {
+    background-color: #2b285c;
+    margin : 0 0 0 0;
+}
+footer {
+    display: flex;
+    background: rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: fixed;
+    flex-wrap: wrap;
+    margin: 86px 0px 0 0;
+    padding: 12px 6% 46% 99px;
+}
+#foot {
+    color: ghostwhite;
+    flex-direction: column;
+    width: 23%;
+    margin: 44px 0 0 0;
+}
+img{
+    width: 10%;
+    border-radius: 20%;
+    margin: 26px 61px 0 -75px;
+}
+
+Form {
+    background-color: #2b285c;
+    padding: 63px 29% 6% 29%;
+}
+Form.Label {
+    color: white;
+}
+
+.labels {
+    color: black;
+    margin-bottom: 1%;
+    margin-top: 5px;
+}
